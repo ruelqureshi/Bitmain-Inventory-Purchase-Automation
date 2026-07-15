@@ -1,4 +1,4 @@
-# Automated Inventory Monitoring & Purchase Automation/Bitmain
+# Bitmain Inventory & Purchase Automation
 
 ## Overview
 
